@@ -1,10 +1,6 @@
 # WaveCast
  
-# CSS: Construindo Layouts com Grid
-
-# CSS: Construindo Layouts com Grid
-
-Este repositório contém o projeto desenvolvido durante o curso **"CSS: Construindo layouts com Grid"** da [Alura](https://www.alura.com.br). O objetivo principal é aprender a criar sites responsivos para diferentes dispositivos utilizando a tecnologia CSS Grid.
+Este repositório contém o projeto desenvolvido durante o curso **"CSS: Construindo layouts com Grid"** da [Alura](https://www.alura.com.br). O objetivo principal é aprender a criar sites responsivos para diferentes dispositivos utilizando o CSS Grid.
 
 ## 🖥️ Objetivo do Projeto
 
@@ -33,5 +29,6 @@ Com uma abordagem responsiva, é possível atender às expectativas de usuários
 
 Além de melhorar a experiência do usuário, sites responsivos têm vantagens em termos de **SEO (Search Engine Optimization)**, aumentando sua visibilidade nos mecanismos de busca.
 
-##🌟 Conclusão
+## 🌟  Conclusão 
+
 A construção de sites responsivos é uma habilidade essencial para qualquer desenvolvedor web. O uso do CSS Grid proporciona um controle poderoso sobre os layouts, permitindo criar designs sofisticados e adaptáveis com facilidade.
