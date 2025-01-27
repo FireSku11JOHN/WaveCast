@@ -34,5 +34,5 @@ Além de melhorar a experiência do usuário, sites responsivos têm vantagens e
 A construção de sites responsivos é uma habilidade essencial para qualquer desenvolvedor web. O uso do CSS Grid proporciona um controle poderoso sobre os layouts, permitindo criar designs sofisticados e adaptáveis com facilidade.
 
 Link para o projeto desenvolvido [aqui]([https://www.exemplo.com](https://firesku11john.github.io/WaveCast/)){:target="_blank"}
-<a href="https://www.exemplo.com](https://www.exemplo.com](https://firesku11john.github.io/WaveCast/" target="_blank">Texto do Link</a>
+<a href="https://firesku11john.github.io/WaveCast/" target="_blank">Texto do Link</a>
 
